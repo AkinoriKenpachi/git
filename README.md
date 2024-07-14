@@ -1,0 +1,2 @@
+# git
+cwiczenie gita
